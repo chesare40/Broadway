@@ -7,5 +7,12 @@ body {
 }
 
 #title {
-  background-image: url(resources/images/flatiron.png);
+  background: url(resources/images/flatiron.png);
+}
+
+ul {
+  list-style: none;
+  font-size: 18px;
+  color: white;
+
 }
