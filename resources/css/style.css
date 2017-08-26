@@ -2,6 +2,10 @@ body {
   font-family: Helvetica;
 }
 
+#main {
+  text-align: center;
+}
+
 #title {
-  background-image: url(resources/images/flatiron.png)
+  background-image: url(resources/images/flatiron.png);
 }
