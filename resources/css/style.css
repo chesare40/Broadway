@@ -1,0 +1,7 @@
+body {
+  font-family: Helvetica;
+}
+
+#title {
+  background-image: url(resources/images/flatiron.png)
+}
