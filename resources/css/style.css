@@ -8,8 +8,10 @@ body {
   text-align: center;
 }
 
-div {
-  background-image: url("resources/images/flatiron.png");
+#title {
+  background-image: url("./resources/images/flatiron.png");
+
+
 }
 
 h1 {
@@ -18,11 +20,9 @@ h1 {
   color: white;
 }
 
-ul {
-  list-style: none;
+a {
   font-size: 18px;
   color: white;
-
 }
 
 #process {
@@ -55,7 +55,6 @@ p {
 
 .foot li {
   display: inline;
-
 }
 
 .foot a {
