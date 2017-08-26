@@ -38,3 +38,26 @@ ul {
 p {
   font-size: 14px;
 }
+
+#mid {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("resources/images/flatiron.png");
+}
+
+#note {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+}
+
+.foot li {
+  display: inline;
+
+}
+
+.foot a {
+  color: white;
+}
