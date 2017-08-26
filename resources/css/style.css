@@ -1,13 +1,21 @@
 body {
   font-family: Helvetica;
+  text-align: center;
+
 }
 
 #main {
   text-align: center;
 }
 
-#title {
-  background: url(resources/images/flatiron.png);
+div {
+  background-image: url("resources/images/flatiron.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
 }
 
 ul {
@@ -15,4 +23,18 @@ ul {
   font-size: 18px;
   color: white;
 
+}
+
+#process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#steps {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
